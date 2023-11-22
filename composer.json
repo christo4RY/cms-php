@@ -1,0 +1,16 @@
+{
+    "name": "cms/arkar",
+    "authors": [
+        {
+            "name": "christo4RY",
+            "email": "arkarlin486@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\":"src/Framework",
+            "App\\":"src/App"
+        }
+    }
+}
